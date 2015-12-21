@@ -1,0 +1,15 @@
+
+Smart Connectivity Test Framework
+How to use Smart Connectivity Test Framework:
+1)	Install Python 3.4 and supporting Extensions pyserial and pywin32 from the folder Tools.
+2)	Place the Bcd_access folder in C Drive.
+3)	Fill the Story_datasheet.csv from the folder Bcd_access as shown in the below pic with Input data, to be verified response data, Description etc...
+Note: Please leave a blank row after each story.
+ 
+4)	Execute start.bat from Bcd_testsuite folder
+5)	A result folder will be created in C: Bcd_access with Result datasheet. The result datasheet will have the Input data, to be verified response data, Actual response data received from the dongle, Test case passed or failed as shown below.
+ 
+
+
+
+
